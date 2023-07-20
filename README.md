@@ -1,4 +1,5 @@
-# SAE_R1-03
+# SAE_Bulletin_Universitaire
+
 Le projet consiste à développer un interpréteur de commandes en langage C qui permettra de gérer une formation universitaire. 
 L'objectif principal de cet interpréteur est de faciliter la gestion des informations relatives à la structure de la formation, aux étudiants inscrits, ainsi qu'aux notes qui leur sont attribuées. 
 Il doit également permettre d'effectuer différentes tâches liées à la fin du semestre et de l'année universitaire, telles que l'édition des relevés de notes et l'établissement des décisions du jury.
