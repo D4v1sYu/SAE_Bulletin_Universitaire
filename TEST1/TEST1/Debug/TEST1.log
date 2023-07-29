@@ -1,0 +1,41 @@
+﻿  Source.c
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(57,12): warning C4013: 'mtr_verif' undefined; assuming extern returning int
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(60,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(93,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(117,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(131,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(205,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(207,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(209,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(249,15): warning C4013: 'etudiant_verif' undefined; assuming extern returning int
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(263,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(275,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(335,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(361,28): warning C4090: 'function': different 'const' qualifiers
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(371,45): warning C4047: '<': 'int' differs in levels of indirection from 'const Note [100]'
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(381,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(393,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(403,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(410,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(415,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(421,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(422,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(423,72): warning C4090: 'function': different 'const' qualifiers
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(423,117): warning C4090: 'function': different 'const' qualifiers
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(425,76): warning C4090: 'function': different 'const' qualifiers
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(425,121): warning C4090: 'function': different 'const' qualifiers
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(432,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(452,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(479,28): warning C4090: 'function': different 'const' qualifiers
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(509,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(517,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(518,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(519,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(529,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(540,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(553,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(561,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(596,21): warning C4090: 'function': different 'const' qualifiers
+C:\Users\FiercePC\Desktop\TEST1\TEST1\Source.c(378): warning C4715: 'noteEtudiant': not all control paths return a value
+  TEST1.vcxproj -> C:\Users\FiercePC\Desktop\TEST1\Debug\TEST1.exe
