@@ -8,6 +8,9 @@ Le projet consiste à développer un interpréteur de commandes en langage C qui
 L'objectif principal de cet interpréteur est de faciliter la gestion des informations relatives à la structure de la formation, aux étudiants inscrits, ainsi qu'aux notes qui leur sont attribuées. 
 Il doit également permettre d'effectuer différentes tâches liées à la fin du semestre et de l'année universitaire, telles que l'édition des relevés de notes et l'établissement des décisions du jury.
 
+Options :
+-
+
 Pour atteindre cet objectif, l'interpréteur devra prendre en compte différentes commandes. Voici quelques-unes des fonctionnalités développées :
 
 - Définir la structure de la formation : définir les différentes matières et évaluations qui composent la formation universitaire catégorisées dans des semestres différents. Des commandes pour ajouter de nouvelles matières et des évaluations liées à ces dernières.
@@ -18,8 +21,7 @@ Pour atteindre cet objectif, l'interpréteur devra prendre en compte différente
 
 - Tâches de fin de semestre et d'année : proposer des commandes pour effectuer des tâches de fin de semestre et d'année universitaire, telles que l'édition de relevés de notes pour chaque étudiant, l'établissement des décisions du jury (admis, ajourné, etc.) ou la génération de statistiques sur les résultats des étudiants.
 
-Options :
--
+
 
 Exemple :
 -
