@@ -25,7 +25,38 @@ Pour atteindre cet objectif, l'interpréteur devra prendre en compte différente
 
 Exemple :
 -
+*User : formation 3*  
+$\textcolor{cyan}{\textsf{Le nombre d’UE est defini}}$  
+*User : epreuve 1 Programmation Projet 1 2 0*  
+$\textcolor{cyan}{\textsf{Matiere ajoutee}}$  
+$\textcolor{cyan}{\textsf{Epreuve ajoutee}}$  
+*User : epreuve 1 Programmation DST 2 3 0*  
+$\textcolor{cyan}{\textsf{Epreuve ajoutee}}$  
+*User : epreuve 1 SGBD Participation 0,5 0 0,5*  
+$\textcolor{cyan}{\textsf{Matiere ajoutee}}$  
+$\textcolor{cyan}{\textsf{Epreuve ajoutee}}$  
+*User : epreuve 1 SGBD Rapport 1,5 0 1,5*  
+$\textcolor{cyan}{\textsf{Epreuve ajoutee}}$  
+*User : coefficients 1*  
+$\textcolor{cyan}{\textsf{Coefficients corrects}}$  
 
+*User : note 1 Paul Programmation Projet 12*  
+$\textcolor{cyan}{\textsf{Etudiant ajoute a la formation}}$  
+$\textcolor{cyan}{\textsf{Note ajoutee a l’etudiant}}$  
+*User : note 1 Paul Programmation DST 9*  
+$\textcolor{cyan}{\textsf{Note ajoutee a l’etudiant}}$  
+*User : note 1 Paul SGBD Participation 16*  
+$\textcolor{cyan}{\textsf{Note ajoutee a l’etudiant}}$  
+*User : note 1 Paul SGBD Rapport 12*  
+$\textcolor{cyan}{\textsf{Note ajoutee a l’etudiant}}$  
+*User : releve 1 Paul*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\textcolor{cyan}{\textsf{UE1 UE2 UE3}}$  
+$\textcolor{cyan}{\textsf{Programmation 10,0 10,2 ND}}$  
+$\textcolor{cyan}{\textsf{SGBD}}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\textcolor{cyan}{\textsf{13,0 ND 13,0}}$  
+$\textcolor{cyan}{\textsf{- -}}$  
+$\textcolor{cyan}{\textsf{Moyennes}}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\textcolor{cyan}{\textsf{11,2 10,2 13,0}}$  
+
+Ce n'est qu'une petite partie du projet, effectivement l'exemple n'intègre qu'un seul étudiant et n'inclut pas la décision finale d'obtention du diplome.
 
 En pratique :
 -
