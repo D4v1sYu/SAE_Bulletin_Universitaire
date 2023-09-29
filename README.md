@@ -60,6 +60,7 @@ Ce n'est qu'une petite partie du projet, effectivement l'exemple n'intègre qu'u
 
 En pratique :
 -
+Il faut en effet ajouter par ligne de commande, chacune des notes par matières et par étudiants. On se retrouve ainsi à devoir écrire une centaine de lignes rien que pour 5 étudiants.
 
 Conclusion :
 -
