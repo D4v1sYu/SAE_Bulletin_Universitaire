@@ -60,7 +60,11 @@ Ce n'est qu'une petite partie du projet, effectivement l'exemple n'intègre qu'u
 
 En pratique :
 -
-Il faut en effet ajouter par ligne de commande, chacune des notes par matières et par étudiants. On se retrouve ainsi à devoir écrire une centaine de lignes rien que pour 5 étudiants.
+Il faut en effet ajouter par ligne de commande, chacune des notes par matières et par étudiants. On se retrouve ainsi à devoir écrire une centaine de lignes rien que pour 5 étudiants.  
+Sachant que le cadre de l'exercice, nous imposait une implémentation de la structure de données de maniere statique. 
+L'inconvénient de cela est que l'allocation en mémoire est la meme peu importe le nombre de d'informations que l'on rentre.  
+De plus, il y a une limite de données à ne pas dépasser qu'on a instancié comme constante. Une alternative totalement envisageable était de définir les structures de maniere dynamique.  
+Cependant, à ce moment de l'année nous n'étions pas capable d'utiliser des tableaux dynamiques. Nous avons appris à nous en servir apres ce tout premier projet de BUT Info.
 
 Conclusion :
 -
