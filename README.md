@@ -64,7 +64,13 @@ Il faut en effet ajouter par ligne de commande, chacune des notes par matières 
 Sachant que le cadre de l'exercice, nous imposait une implémentation de la structure de données de maniere statique. 
 L'inconvénient de cela est que l'allocation en mémoire est la meme peu importe le nombre de d'informations que l'on rentre.  
 De plus, il y a une limite de données à ne pas dépasser qu'on a instancié comme constante. Une alternative totalement envisageable était de définir les structures de maniere dynamique.  
-Cependant, à ce moment de l'année nous n'étions pas capable d'utiliser des tableaux dynamiques. Nous avons appris à nous en servir apres ce tout premier projet de BUT Info.
+Cependant, à ce moment de l'année nous n'étions pas capable d'utiliser des tableaux dynamiques. Nous avons appris par la suite à nous en servir apres ce projet.
 
+Pour valider notre projet, nous avons du passer plusieurs sprints/recettes de tests en boite noire, c'est-à-dire qu'on s'est principalement intéressé aux fonctionnalités et leurs résultats.
+Ainsi, des fichiers d'entrées-sorties attendus nous ont été fournis pour que l'on puisse tester notre programme.  
+Mais cette manière de procéder possède quand même des limites : 
+- On ne s'intéresse pas au fonctionnement interne du programme, tels que la qualité du code, son efficacité et ses performances. Certains de mes camarades se sont retrouvés à attendre 2-3min que leur programme finisse de s'exécuter.
+- On trouve aussi de la redondance d'informations dans les fichiers tests pour notamment atteindre les limites de l'application en terme de mémoire.
+  
 Conclusion :
 -
