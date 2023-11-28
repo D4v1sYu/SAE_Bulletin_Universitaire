@@ -75,6 +75,6 @@ Mais cette manière de procéder possède quand même des limites :
 Conclusion :
 -
 C'est le premier projet universitaire que j'ai réalisé lors de ma formatique en BUT Informatique, l'objectif était de nous initier à l'algorithmique et au langage C.
-J'ai pu appliquer mes connaissances en programmation dans le cadre d'un exercice assez concret. Les compétences que j'ai acquis au lycée mon énormement aidé pour réaliser ce projet.
+J'ai pu appliquer mes connaissances en programmation dans le cadre d'un exercice assez concret. Les compétences que j'ai acquis au lycée mon énormement aidé pour réaliser ce projet.  
 Notamment avec la maitrise du langage Python et ses similitudes avec le C, m'ont permis de me familiariser rapidement et efficacement sur ce nouveau langage assez primitif.
 J'apprécie ce projet pour m'avoir montrer que chaque langage de programmation possède des ressemblances mais qu'au fond il renferme chacun leur propre spécificités.
