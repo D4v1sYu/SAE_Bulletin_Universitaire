@@ -5,7 +5,7 @@ Projet réalisé en première année de BUT Informatique
 Concept :
 -
 
-Le projet consiste à développer un interpréteur de commandes en langage C permettant de gérer une formation universitaire.  
+Le projet consiste à développer un **interpréteur de commandes en langage C** dédié à la gestion d'une formation universitaire.  
 L'objectif principal est de faciliter la gestion des informations relatives à la structure de la formation, des étudiants inscrits ainsi que de leurs notes.  
 Il permet également de réaliser des tâches de fin de semestre et d’année : édition de relevés de notes, décisions de jury, statistiques, etc.
 
@@ -23,7 +23,7 @@ Voici les fonctionnalités principales implémentées dans le projet :
   - Consultation des informations individuelles (moyennes, passage à l’année suivante, etc)
 
 - Gestion des notes :
-  - Enregistrement/modification des notes pour chaque étudiant et épreuve.
+  - Enregistrement et modification des notes pour chaque étudiant et épreuve.
   - Calcul de moyenne par matière, par UE, ou globale.
 
 - Tâches de fin d’année :
@@ -86,7 +86,7 @@ Mais cette méthode montre ses limites :
   
 Conclusion :
 -
-C'est le premier projet universitaire que j'ai réalisé lors de ma formatique en BUT Informatique, l'objectif était de nous initier à l'algorithmique et au langage C.
-J'ai pu appliquer mes connaissances en programmation dans le cadre d'un exercice assez concret. Les compétences que j'ai acquis au lycée mon énormement aidé pour réaliser ce projet.  
+C'est le premier projet universitaire que j'ai réalisé lors de ma formation en BUT Informatique, l'objectif était de nous initier à l'algorithmique et au langage C.
+J'ai pu appliquer mes connaissances en programmation dans le cadre d'un exercice assez concret. Les compétences que j'ai acquises au lycée m'ont énormement aidé pour réaliser ce projet.  
 Notamment avec la maitrise du langage Python et ses similitudes avec le C, m'ont permis de me familiariser rapidement et efficacement sur ce nouveau langage assez primitif.
-J'apprécie ce projet pour m'avoir montrer que chaque langage de programmation possède des ressemblances mais qu'au fond il renferme chacun leur propre spécificités.
+J'apprécie ce projet pour m'avoir montré que chaque langage de programmation possède des ressemblances mais qu'au fond il renferme chacun ses propres spécificités.
