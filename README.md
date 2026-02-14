@@ -66,6 +66,32 @@ $\textcolor{cyan}{\textsf{Moyennes}}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Ceci n’est qu’un extrait simplifié. Le projet complet permet de gérer plusieurs étudiants, matières, épreuves, décision finale, etc**
 
+Execution et Tests :
+-
+Le projet est structuré de manière à séparer le code source des ressources de test.  
+Voici la procédure pour compiler le programme et valider son fonctionnement à l'aide des fichiers de test fournis. 
+
+- Compilation :
+```
+gcc src/main.c -o bulletin
+```
+
+- Protocole de test (Boîte Noire) :  
+
+Windows :
+```
+bulletin.exe < tests/in/in-sp4-base.txt > tests/out/out-sp4-base.txt
+
+fc tests\out\out-sp4-base.txt tests\res\res-sp4-base.txt
+```
+
+Linux :
+```
+./bulletin < tests/in/in-sp4-base.txt > tests/out/out-sp4-base.txt
+
+diff tests/out/out-sp4-base.txt tests/res/res-sp4-base.txt
+```
+
 En pratique :
 -
 L'utilisation en ligne de commande impose d’entrer manuellement chaque note, matière et étudiant, ce qui devient fastidieux dès qu’il y a plus de quelques étudiants.  
